@@ -40,7 +40,7 @@
   --bg-overlay: rgba(0, 0, 0, 0.85);
 
   --text-primary: #e8e8f0;
-  --text-secondary: #8888aa;
+  --text-secondary: #b0b0ff; // higher contrast on dark background
   --text-muted: #55556a;
   --text-inverse: #0a0a0f;
 
@@ -82,7 +82,7 @@
   --bg-overlay: rgba(0, 0, 0, 0.5);
 
   --text-primary: #1a1a2e;
-  --text-secondary: #5a5a7a;
+  --text-secondary: #3a3a5a; // higher contrast on light background
   --text-muted: #9090aa;
   --text-inverse: #ffffff;
 
